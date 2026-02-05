@@ -1,0 +1,8 @@
+{
+  "name": "Professional Training Hub LMS",
+  "description": "A feature-rich enterprise-level Learning Management System built with React and integrated with Google Sheets as a backend. Includes progress tracking, attention checks, and course management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
